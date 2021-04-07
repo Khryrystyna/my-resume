@@ -82,8 +82,9 @@
    
 
    .tablet-element{
+   /* .tablet-element{
     display: none !important;
- }
+ } */
    
  
    .desktop-element{
@@ -1088,9 +1089,9 @@
   .tablet-element{
      display: block !important; 
   }
-  /* .desktop-element{
+  .desktop-element{
     display: none;
-  } */
+  }
   
  
   .front-page-my-name{
